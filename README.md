@@ -2,6 +2,7 @@
 ------
 - `apt update`
 - `apt upgrade`
+- `pkg install python`
 - `apt install git`
 - `apt install python3-pip`
 - `pip3 install rsa`
