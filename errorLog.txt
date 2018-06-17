@@ -1,0 +1,33 @@
+
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u2821289b2f0cb7ba14e19c92bdbcfacc', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
