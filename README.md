@@ -13,6 +13,7 @@
 - `pip3 install pytz`
 - `pip3 install humanfriendly`
 - `pip3 install googletrans`
+- `pip3 install pytz`
 - `git clone https://github.com/gyevha2/Gie2`
 
 - 'Cara Run Bot'
