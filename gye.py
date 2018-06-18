@@ -602,7 +602,7 @@ def lineBot(op):
                         gye.sendMessage(msg.to,"Inviteprotect Off")
                         gye.sendMessage(msg.to,"Cancelprotect Off")
                         gye.sendMessage(msg.to,"bot off")
-                        gye.sendMessage(msg.to,"anti js off")
+                        #gye.sendMessage(msg.to,"anti js off")
                         gye.sendMessage(msg.to,"🔜 All Protect Set To Modar")
             #        else:
              #           gye.sendMessage(msg.to,"Just for Owner")
